@@ -22,6 +22,8 @@
     "@mermaid-js/mermaid-cli": "^9.2.2",
     "@prisma/client": "^4.6.1",
     "fastify": "^4.10.0",
-    "prisma-erd-generator": "^1.2.4"
+    "prisma-erd-generator": "^1.2.4",
+    "short-unique-id": "^4.4.4",
+    "zod": "^3.19.1"
   }
 }
